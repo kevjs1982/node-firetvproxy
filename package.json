@@ -1,0 +1,19 @@
+{
+	"name": "fire-tv-control-proxy",
+	"version": "0.0.1",
+	"description": "Control the Fire TV Stick",
+	"author": "Kev Swindells <git@kevjs1982.me.uk",
+	"main": "control.js",
+	"repository": 
+	{
+		"type": "git",
+		"url": "https://github.com/kevjs1982/node-firetvproxy"
+	},
+	"dependencies":
+	{
+		"ip": "1.1.0",
+		"node-ssdp": "2.7.0",
+		"adbkit": "2.4.0",
+		"bonjour": "3.0.1"
+	}
+}
